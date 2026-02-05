@@ -1,3 +1,4 @@
+
 # 🌍 Impact Allies
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -63,21 +64,47 @@ impact-allies/
 ├── assets/              # Images and icons
 ├── pubspec.yaml         # Dependencies
 └── README.md            # Project documentation
-🧪 Run Locally
+
+```
+
+---
+
+## 🧪 Run Locally
+
 To get this project up and running on your local machine:
 
-1. Clone the Repository
-Bash
+### 1. Clone the Repository
 
+```bash
 git clone [https://github.com/Cynthia-M-M/impact-allies.git](https://github.com/Cynthia-M-M/impact-allies.git)
+
+```
+
+```bash
 cd impact-allies
-2. Install Dependencies
-Bash
 
+```
+
+### 2. Install Dependencies
+
+```bash
 flutter pub get
-3. Run the App
-Bash
 
+```
+
+### 3. Run the App
+
+```bash
 flutter run
-📄 License
+
+```
+
+---
+
+## 📄 License
+
 This project is created for educational and social impact purposes.
+
+```
+
+```
